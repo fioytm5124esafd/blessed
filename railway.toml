@@ -1,1 +1,2 @@
-python discordbot.py
+[deploy]
+startCommand = "python discordbot.py"
