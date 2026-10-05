@@ -1,3 +1,4 @@
+import os
 import discord
 
 CHANNEL_ID = 1555739448283627671
